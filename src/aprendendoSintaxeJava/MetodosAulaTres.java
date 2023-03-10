@@ -27,6 +27,7 @@ public class MetodosAulaTres {
 		smartTv.increaseChannel();
 		smartTv.increaseChannel();
 		smartTv.increaseChannel();
+		smartTv.increaseChannel();
 		System.out.println("Current channel: " + smartTv.channel);
 		
 		smartTv.decreaseChannel();
